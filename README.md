@@ -21,7 +21,7 @@ The analysis tracks call volume, agent performance, and customer satisfaction to
 ---
 
 ## 🖼️ Dashboard  
-![Call Center Dashboard 1](call_center_dashboard1.png)
+![Call Center Dashboard](https://github.com/EstherOlubiyo/Call-Centre-Analysis-PwC/blob/main/Screenshot_20250907-194818_1.jpg)
 
 ---
 
